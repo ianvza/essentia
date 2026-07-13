@@ -23,3 +23,8 @@ To get a local copy up and running, follow these simple steps:
 2. Clone the repository:
    ```bash
    git clone https://github.com/ianvza/essentia.git
+
+
+## ⚖️ Disclaimer
+
+The information provided on this website is for **educational purposes only** and is not intended as medical advice. Always consult with a healthcare professional or certified aromatherapist before starting any new herbal or essential oil regimen.
